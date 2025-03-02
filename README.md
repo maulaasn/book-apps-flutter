@@ -1,8 +1,8 @@
-### flutter book apps
+## flutter book apps
 
 A new Flutter project.
 
-### getting started
+## getting started
 
 This project is a starting point for a Flutter application.
 
